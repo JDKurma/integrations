@@ -2,7 +2,7 @@
 - version: 0.2.1
   changes:
     - description: Add security category to the CLB and COS data streams to match their policy template categories.
-      type: bug
+      type: bugfix
       link: https://github.com/elastic/integrations/pull/19911
 - version: 0.2.0
   changes:
