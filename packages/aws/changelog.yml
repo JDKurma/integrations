@@ -2,7 +2,7 @@
 - version: "6.20.4"
   changes:
     - description: Add security category to the Transit Gateway data stream to match its policy template categories.
-      type: bug
+      type: bugfix
       link: https://github.com/elastic/integrations/pull/19911
 - version: "6.20.3"
   changes:
